@@ -36,4 +36,8 @@ void main () {
 
   myVariable = 10;
   print ('ten: $myVariable');
+
+  late String user;
+  user = 'Tona';
+  final int myVariable3 = 30;
 }
